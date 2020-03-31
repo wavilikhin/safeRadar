@@ -1,4 +1,4 @@
-alert('1.2.1');
+alert('1.3.0');
 AFRAME.registerComponent('rotating-camera', {
   schema: {
     target: { type: 'selector' }
